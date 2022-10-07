@@ -119,3 +119,11 @@ button:hover {
   pointer-events: none;
   background-color: #969696;
 }
+
+
+.audio-player {
+    display: block;
+    border: 3px solid #6236ff;
+    padding: 8px;
+    margin-top: 40px;
+}
