@@ -69,3 +69,7 @@ start.addEventListener('click', () => {
         }, 3000);
     }, 3000);
 });
+
+
+//Audio Controls and Player
+
